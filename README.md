@@ -32,23 +32,17 @@ Before running the application first install the following dependencies.
   * [fbprophet installation](https://stackoverflow.com/questions/56701359/running-setup-py-install-for-fbprophet-error)
 
 
-
-import pandas as pd
-from fbprophet import Prophet
-import hvplot.pandas
-import datetime as dt
-%matplotlib inline
-from pathlib import Path
-import numpy as np
-
 ---
 
 ## Usage
 
 Upon launching the  application you will be greeted with the following prompts.
 
-![clustering cryptos prompts](images/pic1.png)
-![clustering cryptos_Prompts](images/pic2.png)
+![Forcasting Mercado Libre prompts](images/ScreenShot1.png)
+![Forcasting Mercado Libre_Prompts](images/ScreenShot2.png)
+![Forcasting Mercado Libre_Prompts](images/ScreenShot3.png)
+![Forcasting Mercado Libre_Prompts](images/ScreenShot4.png)
+
  -->
 
 ---
